@@ -1,41 +1,75 @@
 # Weekly ToC Digest (week of 2026-02-05)
 
-Focus was placed on articles related to EEG, MEG, neural oscillations, and other specified areas of interest. Links to papers prioritized by relevance to your research interests in large-scale neural and physiological dynamics.
+This week's RSS items include significant advancements in neuroscience, with key studies exploring cognitive processes, brain dynamics, and novel methodologies in neuroimaging. Special attention is given to works on chronic pain, visuomotor skills, dementia detection, and brain adaptation mechanisms. No keywords with high weight for ranking. Suggested focus on potential for novel insights, methodological advancements, and relevance to broad neuroscience or computational fields.
 
-**Included:** 8 (score ≥ 0.65)  
-**Scored:** 9 total items
+**Included:** 12 (score ≥ 0.65)  
+**Scored:** 16 total items
 
 ---
 
-## [Capturing individual variation in children’s electroencephalograms during nREM sleep](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013931)
-*PLOS Computational Biology*  
-Score: **0.95**  
-Published: 2026-01-30T14:00:00+00:00
-Tags: EEG, neural oscillations, neural dynamics
+## [Caudal Granular Insular Cortex to Somatosensory Cortex I: A Critical Pathway for the Transition of Acute to Chronic Pain](http://www.jneurosci.org/cgi/content/short/46/5/e1306252025?rss=1)
+*Journal of Neuroscience current issue*  
+Score: **1.00**  
+Published: 2026-02-04T17:30:29+00:00
+Tags: chronic pain, CGIC, neuropathic
 
-The study uses EEG to explore individual variation, directly aligning with your interest in neural oscillations and EEG-based methodologies.
+This study identifies the caudal granular insular cortex as a crucial area for pain chronification, offering insights into neuropathic pain mechanisms.
 
 <details>
 <summary>RSS summary</summary>
 
-<p>by Verna Heikkinen, Susanne Merz, Riitta Salmelin, Sampsa Vanhatalo, Leena Lauronen, Mia Liljeström, Hanna Renvall</p> Human brain dynamics are highly unique between individuals: functional neuroimaging studies have recently described functional features that can be used as neural fingerprints. However, the stability of these fingerprints is affected by aging and disease. As such, the stability of brain fingerprints may be a useful metric when studying normal and pathological neurodevelopment…
+<p>Allodynia (perceiving touch as painful) is an enduring symptom of neuropathic pain. While acute pain is initiated by afferent signaling from the periphery to spinal cord, pain chronification recruits ongoing activity in supraspinal sites. One such site that has been proposed to be important in pain chronification is the caudal granular insular cortex (CGIC). The present studies of allodynia in response to sciatic nerve injury in male and female rats focus on the role of CGIC in pain chronific…
 
 </details>
 
 ---
 
-## [Deep Learning Reveals Cross-Modal Neural Representations of Auditory and Visual Mental Imagery in MEG](https://www.biorxiv.org/content/10.64898/2026.02.02.703195v1?rss=1)
-*bioRxiv Subject Collection: Neuroscience*  
+## [Contributions from Long-Term Memory Explain Superior Visual Working Memory Performance with Meaningful Objects](http://www.jneurosci.org/cgi/content/short/46/5/e1660252025?rss=1)
+*Journal of Neuroscience current issue*  
 Score: **0.90**  
-Published: 2026-02-04T00:00:00+00:00
-Tags: MEG, neural representation, imagery
+Published: 2026-02-04T17:30:29+00:00
+Tags: memory, visual cognition, interference
 
-This study uses MEG to examine neural representations of imagined stimuli, aligning with interests in MEG and neural representations.
+The study reveals that long-term memory enhances visual working memory performance by reducing proactive interference with meaningful objects.
 
 <details>
 <summary>RSS summary</summary>
 
-Mental imagery provides a unique window into the brain's ability to internally simulate sensory experiences, offering valuable insights for both cognitive neuroscience and brain-computer interface (BCI) research. This study examined the neural representations of imagined auditory and visual stimuli using magnetoencephalography (MEG) and assessed the ability of machine learning models to decode these mental processes. MEG data were recorded from 18 right-handed participants during auditory and vi…
+<p>Working memory (WM) capacity has been claimed to be larger for meaningful objects than for simple features, possibly because richer semantic representations enhance item distinctiveness. However, prior demonstrations compared trial-unique meaningful objects with a small set of repeated simple features. This design confounds meaningfulness with proactive interference (PI), such that PI is minimal for trial-unique objects but substantial for repeated features. Therefore, superior performance fo…
+
+</details>
+
+---
+
+## [Distinct Mechanisms for Panoramic and Landmark-Based View Integration in Human Place-Selective Cortex](http://www.jneurosci.org/cgi/content/short/46/5/e0187252025?rss=1)
+*Journal of Neuroscience current issue*  
+Score: **0.80**  
+Published: 2026-02-04T17:30:28+00:00
+Tags: spatial cognition, cortex, navigation
+
+The research differentiates the neural processes for integrating panoramic and landmark-based views, important for understanding spatial navigation.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>To encode a cognitive map of an environment, a navigator must be able to integrate across perceptual views corresponding to the same place. This can be done in two ways: first, by integrating across the panorama of views obtainable at a single vantage point, and second, by integrating across views of a distal location containing a landmark that is visible from multiple vantage points. We tested the hypothesis that these two viewpoint integration processes are mediated by different neuroanatom…
+
+</details>
+
+---
+
+## [Quantifying State-Dependent Control Properties of Brain Dynamics from Perturbation Responses](http://www.jneurosci.org/cgi/content/short/46/5/e0364252025?rss=1)
+*Journal of Neuroscience current issue*  
+Score: **0.80**  
+Published: 2026-02-04T17:30:28+00:00
+Tags: brain dynamics, network control, perturbation
+
+This paper applies network control theory to examine brain dynamics, highlighting the role of external perturbations in system identification.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>The brain can be conceptualized as a control system facilitating transitions between states, such as from rest to motor activity. Applying network control theory to measurements of brain signals enables characterization of brain dynamics through control properties. However, most prior studies that have applied network control theory have evaluated brain dynamics under unperturbed conditions, neglecting the critical role of external perturbations in accurate system identification. In this stud…
 
 </details>
 
@@ -43,11 +77,11 @@ Mental imagery provides a unique window into the brain's ability to internally s
 
 ## [Connectomes across temporal scales with simultaneous wide-field optical imaging and resting-state functional MRI](https://www.biorxiv.org/content/10.64898/2026.02.01.703149v1?rss=1)
 *bioRxiv Subject Collection: Neuroscience*  
-Score: **0.90**  
+Score: **0.80**  
 Published: 2026-02-03T00:00:00+00:00
-Tags: neural timescales, fMRI, neural dynamics
+Tags: connectomes, rs-fMRI, temporal scales, imaging
 
-The paper discusses temporal scales of neural activity, relevant to your focus on neural timescales and large-scale dynamics.
+Innovative combination of rs-fMRI and wide-field optical imaging to address the challenge of hemodynamic delay, offering a new perspective on neural connectivity across timescales.
 
 <details>
 <summary>RSS summary</summary>
@@ -58,13 +92,30 @@ Resting-state functional MRI (rs-fMRI) is a cornerstone of human brain research,
 
 ---
 
+## [Connectome analysis reveals brain-wide processing of visual features in Drosophila](https://www.biorxiv.org/content/10.64898/2026.02.02.700492v1?rss=1)
+*bioRxiv Subject Collection: Neuroscience*  
+Score: **0.80**  
+Published: 2026-02-03T00:00:00+00:00
+Tags: connectome, visual processing, Drosophila
+
+Utilizes the Drosophila connectome to explore brain-wide networks for visual feature processing, providing insights into sensory and neural network integration.
+
+<details>
+<summary>RSS summary</summary>
+
+Sensory processing relies on an intricate interplay between specialized sensory circuits and the broader brain. Leveraging the whole-brain Drosophila melanogaster connectome, we analyzed long-range projections linking the optic lobe (OL)--the principal visual center--reciprocally with the central brain and the contralateral OL to determine how visual features are computed by a brainwide network. By quantifying synaptic polarity and connectivity, we classified the projection neurons into feedforw…
+
+</details>
+
+---
+
 ## [Biophysical Modeling of Thalamocortical Circuit Dynamics: Species-Specific Insights into Neural Synchrony, Sleep Spindles, and Mechanisms of Neuropsychiatric Disorders](https://www.biorxiv.org/content/10.64898/2026.02.01.703170v1?rss=1)
 *bioRxiv Subject Collection: Neuroscience*  
-Score: **0.85**  
+Score: **0.75**  
 Published: 2026-02-03T00:00:00+00:00
-Tags: neural synchrony, oscillations, neural dynamics
+Tags: thalamocortical, neural synchrony, sleep spindles
 
-This research on thalamocortical circuits relates to your interest in neural synchrony and oscillatory dynamics.
+Highlights computational modeling of thalamocortical circuits, relating to sleep and psychiatric disorders, offering potential translational insights.
 
 <details>
 <summary>RSS summary</summary>
@@ -75,69 +126,86 @@ Thalamocortical circuits play a fundamental role in cognitive functions, and neu
 
 ---
 
-## [Neurochemical and Neurophysiological Effects of Intravenous Administration of N,N-Dimethyltryptamine in Rats](http://www.jneurosci.org/cgi/content/short/46/5/e0742242025?rss=1)
-*Journal of Neuroscience current issue*  
-Score: **0.80**  
-Published: 2026-02-04T17:30:28+00:00
-Tags: EEG, neurophysiology, neural dynamics
+## [Distinct activation thresholds of unmyelinated C-fiber afferents by dorsal root ganglion and peripheral nerve stimulation](https://www.biorxiv.org/content/10.64898/2026.02.02.703367v1?rss=1)
+*bioRxiv Subject Collection: Neuroscience*  
+Score: **0.70**  
+Published: 2026-02-04T00:00:00+00:00
+Tags: C-fiber, pain, stimulation
 
-Involves 32-channel EEG, aligning with studies on neural oscillation methods and physiological dynamics.
+The findings show different thresholds for C-fiber activation, which could inform pain management strategies.
 
 <details>
 <summary>RSS summary</summary>
 
-<p><i>N</i>,<i>N</i>-Dimethyltryptamine (DMT) is a serotonergic psychedelic that is being investigated for the treatment of psychiatric disorders. Although the neurophysiological effects of DMT in humans are well characterized, similar studies in animal models and data on the neurochemical effects of DMT are generally lacking, which are critical for a mechanistic understanding. Here, we combined behavioral analysis, high-density (32-channel) electroencephalography, and ultrahigh-performance liqu…
+Objectives: Sensitization of C-fiber nociceptors plays a critical role in spontaneous and ongoing pain in patients with chronic pain. We recently demonstrated that C-fiber afferents can be reversibly blocked through activity-dependent conduction slowing, suggesting that selective activation of C-fiber afferents may represent a novel strategy for pain relief. We hypothesized that electrical peripheral nerve stimulation (ePNS) and dorsal root ganglion (DRG) stimulation exhibit distinct activation …
 
 </details>
 
 ---
 
-## [The Spatial Coding of Touch Is Defined in Intrinsic, Limb-Specific Coordinates: An EEG Study](http://www.jneurosci.org/cgi/content/short/46/5/e1089252025?rss=1)
-*Journal of Neuroscience current issue*  
-Score: **0.75**  
-Published: 2026-02-04T17:30:28+00:00
-Tags: EEG, tactile remapping, neural dynamics
+## [Modeling human visuomotor adaptation with a disturbance observer framework](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013937)
+*PLOS Computational Biology*  
+Score: **0.70**  
+Published: 2026-02-04T14:00:00+00:00
+Tags: visuomotor, adaptation, control theory
 
-This EEG study explores tactile remapping, linking neural activity with perceptual experiences, relevant to neural time series analysis.
+A novel framework using control theory to model visuomotor adaptation advances understanding of sensorimotor recalibration.
 
 <details>
 <summary>RSS summary</summary>
 
-<p>The brain computes the spatiotopic position of touch by integrating tactile and proprioceptive signals (i.e., tactile remapping). While it is often assumed that the spatiotopic touch location is mapped into extrinsic, limb-independent coordinates, an alternative view proposes that touch is remapped into intrinsic, limb-specific coordinates. To test between these hypotheses, we used electroencephalography (EEG) and a novel tactile stimulation paradigm in which participants (<i>N</i> = 20, 19 f…
+<p>by Gaurav Sharma, Bernard Marius ’t Hart, Jean-Jacques Orban de Xivry, Denise Y.P. Henriques, Mireille E. Broucke</p> A fundamental problem of visuomotor adaptation research is to understand how the brain is capable to asymptotically remove a predictable exogenous disturbance from a visual error signal using limited sensor information by re-calibration of hand movement. From a control theory perspective, the most striking aspect of this problem is that it falls squarely in the realm of the in…
 
 </details>
 
 ---
 
-## [Resource landscape shapes the composition and stability of the human vaginal microbiota](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003575)
+## [Knowledge gaps and research priorities to understand sex differences in immunity](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003578)
 *PLOS Biology*  
 Score: **0.70**  
-Published: 2026-02-03T14:00:00+00:00
-Tags: microbiota, physiological dynamics
+Published: 2026-02-02T14:00:00+00:00
+Tags: immunity, sex differences, research priorities
 
-Although not directly on neural dynamics, the methodological insights can apply broadly to microbiota-related physiological studies.
+Addresses a critical and emerging area in immune research with implications for personalized medicine and disease treatment.
 
 <details>
 <summary>RSS summary</summary>
 
-<p>by Tsukushi Kamiya, Mircea T. Sofonea, Michael France, Nicolas Tessandier, Ignacio G Bravo, Carmen Lia Murall, Jacques Ravel, Samuel Alizon</p> The vaginal microbiota is associated with the health of women and newborns alike. Despite its comparatively simple composition relative to other human microbiota systems, the mechanisms underpinning the dynamics and stability of vaginal microbial communities remain elusive. A crucial, yet so far underexplored, aspect of vaginal microbiota ecology is t…
+<p>by Katie L. Flanagan, Sabra L. Klein</p> Differences in immunity in males and females throughout the life span manifest as differences in susceptibility to chronic diseases, infections, cancer, and responses to therapeutic interventions such as immunomodulatory drugs and vaccines. Sex steroids and sex chromosome-linked immune response genes have major roles in driving these differences, but the cells and signaling pathways governing these are disease-specific and often not known. Such knowled…
 
 </details>
 
 ---
 
-## [Distinct Mechanisms for Panoramic and Landmark-Based View Integration in Human Place-Selective Cortex](http://www.jneurosci.org/cgi/content/short/46/5/e0187252025?rss=1)
-*Journal of Neuroscience current issue*  
-Score: **0.68**  
-Published: 2026-02-04T17:30:28+00:00
-Tags: neural encoding, connectivity, representation
+## [Multiscale segmentation using hierarchical phase-contrast tomography and deep learning](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013923)
+*PLOS Computational Biology*  
+Score: **0.70**  
+Published: 2026-02-02T14:00:00+00:00
+Tags: segmentation, tomography, deep learning
 
-Explores neural encoding and mapping, relevant to studies of connectivity and neural representation.
+Combines advanced tomography and deep learning for improved image segmentation, relevant in the context of biomedical imaging.
 
 <details>
 <summary>RSS summary</summary>
 
-<p>To encode a cognitive map of an environment, a navigator must be able to integrate across perceptual views corresponding to the same place. This can be done in two ways: first, by integrating across the panorama of views obtainable at a single vantage point, and second, by integrating across views of a distal location containing a landmark that is visible from multiple vantage points. We tested the hypothesis that these two viewpoint integration processes are mediated by different neuroanatom…
+<p>by Yang Zhou, Shahab Aslani, Yousef Javanmardi, Joseph Brunet, David Stansby, Saskia Carroll, Alexandre Bellier, Maximilian Ackermann, Paul Tafforeau, Peter D. Lee, Claire L. Walsh</p> Biomedical systems span multiple spatial scales, encompassing tiny functional units to entire organs. Interpreting these systems through image segmentation requires the effective propagation and integration of information across different scales. However, most existing segmentation methods are optimised for sin…
+
+</details>
+
+---
+
+## [Microstructural profiles of the human superficial white matter and their associations to cortical geometry and connectivity](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003629)
+*PLOS Biology*  
+Score: **0.68**  
+Published: 2026-01-30T14:00:00+00:00
+Tags: white matter, connectivity, cortical geometry
+
+Explores the role of superficial white matter in brain connectivity, crucial for understanding cortical function and disorders.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>by Youngeun Hwang, Raul Rodriguez-Cruces, Jordan DeKraker, Donna Gift Cabalo, Ilana R. Leppert, Risavarshni Thevakumaran, Christine L. Tardif, David A. Rudko, Casey Paquola, Pierre-Louis Bazin, Andrea Bernasconi, Neda Bernasconi, Luis Concha, Alan C. Evans, Boris C. Bernhardt</p> The superficial white matter (SWM), immediately beneath the cortical mantle, is thought to play a major role in cortico-cortical connectivity as well as large-scale brain function. Yet, this compartment remains rarel…
 
 </details>
 
