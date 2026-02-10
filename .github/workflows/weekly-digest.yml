@@ -46,7 +46,7 @@ jobs:
           ALL_PROXY: ""
           NO_PROXY: "api.openai.com"
           MIN_SCORE_READ: "0.35"
-          LOOKBACK_DAYS: "7"
+          LOOKBACK_DAYS: "60"
           SUMMARY_MAX_CHARS: "500"
           PREFILTER_KEEP_TOP: "200"
           BATCH_SIZE: "50"
