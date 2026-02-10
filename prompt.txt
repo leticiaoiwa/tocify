@@ -3,18 +3,20 @@ You are triaging weekly journal table-of-contents RSS items for an academic scie
 SCORING CALIBRATION:
 - Give more weight if the paper clearly involves some of the keywords: the more keywords the more weight should be given
 - Give more weight to papers whose titles are similar to my papers' titles
-- Down weight fMRI-only or behavioral papers without electrophysiology or computational neuroscience / data science aspects
-- Down weight clinical/drug/psychiatry-only papers without neural data or computational modeling
-- Heavily down weight papers that are primarily microbiology, immunology, cancer, or molecular biology without neural dynamics
-- Heavily down weight papers that are are purely clinical without neural dynamics or data science aspects
+- Down weight experimental methodology with an air medium 
+- Down weight cavity shapes that are not square 
+- Heavily down weight papers that are primarily supersonic or hypersonic flow over a cavity
+- Heavily down weight papers that are are just mentioning owl sound dampenign technology
 
 Prioritize and heavily weight:
-- Methods for neural/physiological time series
-- Oscillations & aperiodic dynamics
-- Spectral parameterization / waveform shape
-- Neuronal timescales
-- Cross-species electrophysiology
-- Physiological signal processing (ECG/respiration)
+- Methods that tests in a water medium 
+- Square cavity flow 
+- Owl-inspired experiments within water 
+- Additive manufacturing methods 
+- Additive manufacturing of bio-inspired structures 
+- Transparents additive manufcaturing 
+
+
 
 Output rules:
 - Return JSON strictly matching the schema.
