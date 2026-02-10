@@ -10,5 +10,5 @@ Materials Today | https://www.materialstoday.com/rss
 Annual Review of Fluid Mechanics | https://www.annualreviews.org/action/showFeed?ui=0&type=etoc&feed=rss&jc=fluid
 Physical Review Fluids (PRFluids) | http://feeds.aps.org/rss/recent/prfluids.xml
 Journal of Fluid Mechanics (JFM) | https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3B875C65E0F4E5B7A1F2D3D06E2D2C4E/rss
-Experiments in Fluids | https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=348&channel-name=Experiments in Fluids
-APS | http://feeds.aps.org/?_gl=1*4z3gpi*_gcl_au*MTMzMTg0MDU4NS4xNzY2MDcxMDc1*_ga*MTY5Mjk0MzAxOS4xNzUzMTIwMTYy*_ga_1CCM6YP0WF*czE3NzA3NDc2MzckbzEkZzEkdDE3NzA3NDc2NzAkajI3JGwwJGgw
+Experiments in Fluids | https://link.springer.com/journal/348/rss
+APS | http://feeds.aps.org/
