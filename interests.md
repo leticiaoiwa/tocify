@@ -22,10 +22,10 @@ Sound dampening materials
 Thermoelectric materials
 Material science 
 Additive manufacturing 
-Fluid mechanics materials
-Material development 
+Fluid mechanics materials 
 Flow over cavity 
 Square cavity interaction
+Bio-inspired manufacturing
 
 
 ## narrative
